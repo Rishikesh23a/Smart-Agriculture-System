@@ -60,7 +60,7 @@ This system helps farmers or researchers observe field conditions in real time, 
 
 ---
 
-## 🧩 Folder Structure
+`````## 🧩 Folder Structure
 Smart-Agriculture-System/
 │
 ├─ code/
@@ -78,7 +78,7 @@ Smart-Agriculture-System/
 │ ├─ firebase_setup.text
 │
 ├─ data/
-│ ├─ sample_readings.csv
+│ ├─ sample_readings.csv `````
 
 ## 🧾 Learning Outcomes
 - Gained hands-on experience with **GitHub issue tracking and collaboration**  
