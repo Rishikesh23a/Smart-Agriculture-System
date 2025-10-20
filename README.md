@@ -60,7 +60,7 @@ This system helps farmers or researchers observe field conditions in real time, 
 
 ---
 
-`````## 🧩 Folder Structure
+## `````🧩 Folder Structure
 Smart-Agriculture-System/
 │
 ├─ code/
