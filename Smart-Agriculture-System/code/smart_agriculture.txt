@@ -6,8 +6,8 @@
 #define WIFI_SSID "Airtel_Mighty Raju"
 #define WIFI_PASSWORD "Mitaoe#701"
 
-#define API_KEY "AIzaSyAUxLwgUALpPcWpp7_5GwHyNHsgNJQO3O8"  // your full key
-#define DATABASE_URL "https://smart-agriculture-df146-default-rtdb.firebaseio.com/"
+#define API_KEY  // your full key
+#define DATABASE_URL // your full DATABASE_URL
 
 // ----------------- Sensor Pins -----------------
 #define DHTPIN D4
@@ -97,3 +97,4 @@ void loop() {
 
   delay(5000);
 }
+
