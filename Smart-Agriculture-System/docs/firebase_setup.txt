@@ -1,0 +1,5 @@
+1. Create a Firebase project on console.firebase.google.com
+2. Go to Realtime Database → Create database → Set rules to true for testing.
+3. Copy database URL (e.g., https://smartfarm-default-rtdb.firebaseio.com/)
+4. Go to Project Settings → Service accounts → copy API key
+5. Replace these in the Arduino code.
